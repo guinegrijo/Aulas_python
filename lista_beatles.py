@@ -20,4 +20,4 @@ lista_beatles.insert(0, "Ringo Starr")
 
 print(lista_beatles)
 
-("o fabuloso", len(beatles))
+print("o fabuloso", len(lista_beatles))
